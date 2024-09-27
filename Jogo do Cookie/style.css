@@ -1,0 +1,36 @@
+dialog::backdrop{
+
+    background-color: rgb(0, 0, 0 / 0.5);
+}
+
+dialog{
+
+    border: none;
+    border-radius: .5rem;
+    box-shadow: 0 0 1rem rgb(0, 0, 0 / .3);
+    width: 50%;
+}
+
+button:hover{
+
+    cursor: pointer;
+}
+
+.titulo{
+
+    font-size: 50px;
+}
+
+.comoJogar{
+
+    background-color: burlywood;
+    height: 25px;
+}
+
+.clique{
+
+    background-color: burlywood;
+    border-radius: 10px;
+    width: 10%;
+    height: 40px;
+}
